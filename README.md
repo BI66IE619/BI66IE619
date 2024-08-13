@@ -27,7 +27,7 @@ Current Project: <a href="https://github.com/BI66IE619/Inspect-Element-Developer
   &nbsp; 
   &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
+  <img src="https://raw.githubusercontent.com/BI66IE619/BI66IE619/main/assets/mail-512.png" width="30px" alt="Email"></a>
   &nbsp; 
   &nbsp;
     <a rel="nofollow noopener noreferrer" target="_blank" href="">
