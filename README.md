@@ -41,7 +41,7 @@ Current Project: <a href="https://github.com/BI66IE619/Inspect-Element-Developer
 
 </samp>
 </details>
-
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 ----
 Credits: [BI66IE619](https://github.com/BI66IE619)
 
