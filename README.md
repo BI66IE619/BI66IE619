@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" >BI66IE</a></b>.
-    <br>I'm a high school student in Computer Engineering from California.<br>
+    <br>I'm a High School Student in Computer Engineering from California.<br>
 
 </samp>
 
