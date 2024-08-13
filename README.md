@@ -52,10 +52,10 @@ Operating Systems
 </details>
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=BI66IE619&style=for-the-badge&color=orange" alt=""/>
+
+  </div>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=BI66IE619&theme=dark_dimmed)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
  
 ----
