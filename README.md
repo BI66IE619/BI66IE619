@@ -23,7 +23,7 @@ Current Project: <a href="https://github.com/BI66IE619/Inspect-Element-Developer
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
+  <img src="https://raw.githubusercontent.com/BI66IE619/BI66IE619/main/assets/tbjhgqpc2nn61.png" width="30px" alt="Discord"></a>
   &nbsp; 
   &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="">
