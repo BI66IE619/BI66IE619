@@ -39,7 +39,7 @@ Current Project: <a href="https://github.com/BI66IE619/Inspect-Element-Developer
   
   Languages
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Solidity" alt="Solidity" width="55" height="55"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/> 
 </p> 
 
 <p align="center">
@@ -58,5 +58,5 @@ Current Project: <a href="https://github.com/BI66IE619/Inspect-Element-Developer
 Credits: [BI66IE619](https://github.com/BI66IE619)
 
 Last Edited on: 8/13/24
-
+  
 PS. None of my links work so don't try clicking on any of them.
