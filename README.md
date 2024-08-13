@@ -5,3 +5,4 @@
 - 📫 How to reach me andersonbiggie2011@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun Fact about me is I play sports such as baseball, football, and soccer.
+assets/github-snake.svg
