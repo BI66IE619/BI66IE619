@@ -45,6 +45,9 @@ Current Project: <a href="https://github.com/BI66IE619/Inspect-Element-Developer
 
 </samp>
 </details>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=BI66IE619&style=for-the-badge&color=orange" alt=""/>
+</div>
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
  
 ----
