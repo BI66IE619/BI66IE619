@@ -19,7 +19,7 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="https://github.com/BI66IE619/Inspect-Element-Developer-Tools">Inspect Element/DevTools For Mobile</a>
+Current Project: <a href="https://github.com/BI66IE619/BI6PROXY-Web-Proxy">BI6PROXY-Web-Proxy</a>
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="">
