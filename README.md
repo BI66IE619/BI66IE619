@@ -35,7 +35,7 @@ Current Project: <a href="https://github.com/BI66IE619/BI6PROXY-Web-Proxy">BI6PR
   &nbsp;
   &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
+  <img src="https://raw.githubusercontent.com/BI66IE619/BI66IE619/main/assets/IMG_0713.png" width="23px" alt="Twitch"></a>
   
   Languages
   
