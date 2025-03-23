@@ -19,14 +19,14 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="">Nothing At The Moment</a>
+Current Project: <a href="github.com/bi66ie619/bi66ie619.github.io">Ultimate Unblocked Games Site (BI6ZONE)</a>
 
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://discord.com/invite/CBbQqNNXGN">
   <img src="https://raw.githubusercontent.com/BI66IE619/BI66IE619/main/assets/tbjhgqpc2nn61.png" width="30px" alt="Discord"></a>
   &nbsp; 
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="andersonbiggie2011@gmail.com">
   <img src="https://raw.githubusercontent.com/BI66IE619/BI66IE619/main/assets/mail-512.png" width="30px" alt="Email"></a>
   &nbsp; 
   &nbsp;
@@ -34,7 +34,7 @@ Current Project: <a href="">Nothing At The Moment</a>
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
   &nbsp;
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="twitch.com/bi66ie619">
   <img src="https://raw.githubusercontent.com/BI66IE619/BI66IE619/main/assets/IMG_0713.png" width="23px" alt="Twitch"></a>
   
   Languages
