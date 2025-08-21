@@ -81,8 +81,8 @@
 <summary><b>📋 System Info / Fun Facts</b></summary>
 <ul>
   <li>🔒 Cyber Security hobbyist & bug bounty explorer</li>
-  <li>🧑‍💻 100% client-side code, privacy-focused, no trackers, no logins</li>
-  <li>⚾ I play baseball IRL (Team: <b>619 Sluggers</b>)</li>
+  <li>🧑‍💻 100% client-side code, privacy-focused, no trackers, no logins (maybe)</li>
+  <li>⚾ I play baseball IRL (Team: <b>NC Diablos</b>)</li>
   <li>🛡️ Favorite OS: Kali Linux & Ubuntu</li>
   <li>🤝 Always open to collab on privacy/cyber projects</li>
   <li>📚 Currently learning: API Security, Node.js backend, CTF techniques</li>
