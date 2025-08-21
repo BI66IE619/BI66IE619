@@ -12,9 +12,6 @@
 ---
 
 <p align="center">
-  <!-- MATRIX BANNER (SVG, green code rain) -->
-  <img src="/assets/matrix.gif" width="100%" alt="Matrix Code Rain Banner"/>
-</p>
 
 <div align="center">
 
