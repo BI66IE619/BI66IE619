@@ -13,7 +13,7 @@
 
 <p align="center">
   <!-- MATRIX BANNER (SVG, green code rain) -->
-  <img src="https://raw.githubusercontent.com/Akshay090/matrix-rain-animation/main/matrix.svg" width="100%" alt="Matrix Code Rain Banner"/>
+  <img src="/assets/matrix.gif" width="100%" alt="Matrix Code Rain Banner"/>
 </p>
 
 <div align="center">
