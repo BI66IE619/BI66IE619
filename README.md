@@ -11,8 +11,6 @@
 
 ---
 
-<p align="center">
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=BI66IE619&style=for-the-badge&color=orange" alt="Profile Views"/>
@@ -46,25 +44,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="170"/>
 </p>
-<p align="center">
-  <b>Current Project:</b> <a href="https://github.com/BI66IE619/bi66ie619.github.io">BI6ZONE (Ultimate Unblocked Games Site)</a>
-  <br><br>
-  <!-- Discord -->
-  <a href="https://discord.com/invite/CBbQqNNXGN">
-    <img src="https://raw.githubusercontent.com/BI66IE619/BI66IE619/main/assets/tbjhgqpc2nn61.png" width="30px" alt="Discord"></a>
-  &nbsp;
-  <!-- Email -->
-  <a href="mailto:andersonbiggie2011@gmail.com">
-    <img src="https://raw.githubusercontent.com/BI66IE619/BI66IE619/main/assets/mail-512.png" width="30px" alt="Email"></a>
-  &nbsp;
-  <!-- Instagram -->
-  <a href="https://instagram.com/biggie619_11">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="30px" alt="Instagram"></a>
-  &nbsp;
-  <!-- TikTok -->
-  <a href="https://tiktok.com/@jerichomanzzz">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" width="25px" alt="TikTok"></a>
-</p>
 
 ---
 
@@ -77,18 +56,16 @@
 
 ---
 
-<details>
-<summary><b>📋 System Info / Fun Facts</b></summary>
+<h3 align="center">📋 System Info / Fun Facts</h3>
 <ul>
   <li>🔒 Cyber Security hobbyist & bug bounty explorer</li>
-  <li>🧑‍💻 100% client-side code, privacy-focused, no trackers, no logins (maybe)</li>
-  <li>⚾ I play baseball IRL (Team: <b>NC Diablos</b>)</li>
+  <li>🧑‍💻 100% client-side code, privacy-focused, no trackers, no logins</li>
+  <li>⚾ I play baseball IRL (Team: <b>619 Sluggers</b>)</li>
   <li>🛡️ Favorite OS: Kali Linux & Ubuntu</li>
   <li>🤝 Always open to collab on privacy/cyber projects</li>
   <li>📚 Currently learning: API Security, Node.js backend, CTF techniques</li>
   <li>🌌 Fun fact: My first website was built on a school Chromebook, during lunch break</li>
 </ul>
-</details>
 
 ---
 
