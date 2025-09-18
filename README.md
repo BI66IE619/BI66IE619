@@ -71,7 +71,7 @@
 
 <h3 align="center">📊 Stats & Activity</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BI66IE619&show_icons=true&theme=tokyonight&hide=prs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BI66IE619&show_icons=true&theme=tokyonight
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BI66IE619&layout=compact&theme=tokyonight"/>
 </p>
 
