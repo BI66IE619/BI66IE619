@@ -72,7 +72,8 @@
 
 <h3 align="center">📊 Stats & Activity</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BI66IE619&layout=compact&theme=tokyonight"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BI66IE619&theme=moonlight"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BI66IE619&theme=moonlight"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BI66IE619&theme=moonlight"/>
 </p>
 
 <p align="center">
