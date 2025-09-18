@@ -62,6 +62,7 @@
   <li>🧑‍💻 100% client-side code, privacy-focused, no trackers, no logins</li>
   <li>⚾ I play baseball IRL (Team: <b>NC Diablos</b>)</li>
   <li>🛡️ Favorite OS: Kali Linux & Ubuntu</li>
+  <li>🏴‍☠️ Professional Piracy Pirate
   <li>🤝 Always open to collab on privacy/cyber projects</li>
   <li>📚 Currently learning: API Security, Node.js backend, CTF techniques</li>
   <li>🌌 Fun fact: My first website was built on a school Chromebook, during lunch break</li>
@@ -71,7 +72,6 @@
 
 <h3 align="center">📊 Stats & Activity</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BI66IE619&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BI66IE619&layout=compact&theme=tokyonight"/>
 </p>
 
