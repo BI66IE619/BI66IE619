@@ -5,9 +5,6 @@
     Hey, I'm <b>BI66IE619</b>.<br>
     High School Student | Web Engineer | Cyber Security Enthusiast<br>
     California, USA<br>
-    <br>
-    <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="170"/>
-  </samp>
 </p>
 
 ---
