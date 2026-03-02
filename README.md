@@ -47,9 +47,8 @@
 
 <h3 align="center">🚀 My Current Projects</h3>
 <p align="center">
-  <a href="https://github.com/BI66IE619/bi66ie619.github.io"><b>BI6ZONE</b></a> &bull; Unblocked games portal<br>
+  <a href="https://github.com/BI66IE619/moonlight"><b>Moonlight</b></a> &bull; Unblocked games portal V2<br>
   <a href="https://github.com/BI66IE619/prep-set"><b>PrepSet</b></a> &bull; Free College Preparation AI<br>
-  <a href="https://github.com/BI66IE619/BI6CORD"><b>BI6CORD</b></a> &bull; Discord-style JS chat app (single-room, E2E)
 </p>
 
 ---
