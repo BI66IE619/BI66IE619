@@ -3,7 +3,7 @@
   <br>
   <samp>
     Hey, I'm <b>BI66IE619</b>.<br>
-    High School Student | Web Engineer | Cyber Security Enthusiast<br>
+    College Student | Web Engineer | Cyber Security Enthusiast<br>
     California, USA<br>
 </p>
 
